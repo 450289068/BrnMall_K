@@ -1,0 +1,13 @@
+C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\bin\Debug\BrnMall.CacheStrategy.AspNet.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\bin\Debug\BrnMall.CacheStrategy.AspNet.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\bin\Debug\BrnMall.Core.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\bin\Debug\BrnMall.Core.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CacheStrategy.AspNet.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CacheStrategy.AspNet.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\obj\Debug\BrnMall.CacheStrategy.AspNet.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\obj\Debug\BrnMall.CacheStrategy.AspNet.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CacheStrategy.AspNet.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.CacheStrategy.AspNet.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\obj\Debug\BrnMall.CacheStrategy.AspNet.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\obj\Debug\BrnMall.CacheStrategy.AspNet.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.CacheStrategy.AspNet\obj\Debug\BrnMall.CacheStrategy.AspNet.csprojResolveAssemblyReference.cache

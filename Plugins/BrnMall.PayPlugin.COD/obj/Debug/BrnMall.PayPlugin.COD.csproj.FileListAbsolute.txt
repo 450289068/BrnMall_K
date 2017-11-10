@@ -1,0 +1,15 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\views\admincod\config.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\BrnMall.PayPlugin.COD.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\BrnMall.PayPlugin.COD.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\db.config
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\plugin.config
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\db.config
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\plugin.config
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\views\admincod\config.cshtml
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\BrnMall.PayPlugin.COD.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.COD\BrnMall.PayPlugin.COD.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.COD\obj\Debug\BrnMall.PayPlugin.COD.pdb

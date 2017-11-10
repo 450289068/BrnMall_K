@@ -1,0 +1,5 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.OrderStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.OrderStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Release\BrnMall.OrderStrategy.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Release\BrnMall.OrderStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.OrderStrategy.SqlServer\obj\Release\BrnMall.OrderStrategy.SqlServer.pdb

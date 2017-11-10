@@ -1,0 +1,5 @@
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.SearchStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.SearchStrategy.SqlServer.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.SearchStrategy.SqlServer\obj\Release\BrnMall.SearchStrategy.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.SearchStrategy.SqlServer\obj\Release\BrnMall.SearchStrategy.SqlServer.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Strategies\BrnMall.SearchStrategy.SqlServer\obj\Release\BrnMall.SearchStrategy.SqlServer.pdb

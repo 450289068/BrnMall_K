@@ -1,0 +1,17 @@
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.ChinaBank\Plugin.config
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.ChinaBank\DB.config
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.ChinaBank\Views\AdminChinaBank\Config.cshtml
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.ChinaBank\Views\Show.cshtml
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.ChinaBank\BrnMall.PayPlugin.ChinaBank.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.ChinaBank\BrnMall.PayPlugin.ChinaBank.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\plugin.config
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\db.config
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\views\adminchinabank\config.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\views\show.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\BrnMall.PayPlugin.ChinaBank.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.ChinaBank\BrnMall.PayPlugin.ChinaBank.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.ChinaBank\obj\Debug\BrnMall.PayPlugin.ChinaBank.csprojResolveAssemblyReference.cache

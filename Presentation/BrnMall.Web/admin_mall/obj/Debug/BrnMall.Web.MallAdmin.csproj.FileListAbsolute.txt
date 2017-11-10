@@ -1,0 +1,12 @@
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\MallAdmin\obj\Debug\BrnMall.Web.MallAdmin.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\MallAdmin\obj\Debug\BrnMall.Web.MallAdmin.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\MallAdmin\obj\Debug\BrnMall.Web.MallAdmin.csprojResolveAssemblyReference.cache
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Admin_Mall\obj\Debug\BrnMall.Web.MallAdmin.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Admin_Mall\obj\Debug\BrnMall.Web.MallAdmin.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\bin\BrnMall.Web.MallAdmin.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\admin_mall\obj\Debug\BrnMall.Web.MallAdmin.csprojResolveAssemblyReference.cache

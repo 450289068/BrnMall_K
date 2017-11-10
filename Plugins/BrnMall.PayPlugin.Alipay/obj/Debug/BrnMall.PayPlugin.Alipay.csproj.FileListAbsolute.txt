@@ -1,0 +1,17 @@
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.Alipay\Plugin.config
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.Alipay\Views\AdminAlipay\Config.cshtml
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.Alipay\DB.config
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.Alipay\Views\Show.cshtml
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.Alipay\BrnMall.PayPlugin.Alipay.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Presentation\BrnMall.Web\Plugins\BrnMall.PayPlugin.Alipay\BrnMall.PayPlugin.Alipay.pdb
+C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.dll
+C:\Users\ZhangMeng\Desktop\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\plugin.config
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\views\adminalipay\config.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\db.config
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\views\show.cshtml
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\BrnMall.PayPlugin.Alipay.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\BrnMall.PayPlugin.Alipay.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.dll
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.pdb
+C:\Users\ZhangMeng\Desktop\工作\BrnMall\Plugins\BrnMall.PayPlugin.Alipay\obj\Debug\BrnMall.PayPlugin.Alipay.csprojResolveAssemblyReference.cache
